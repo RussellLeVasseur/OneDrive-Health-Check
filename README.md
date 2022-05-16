@@ -9,6 +9,6 @@ This script will:
 Requirements:
 - OneDrive Installed
 - Domain accounts that are pre-configured for Office 365 and OneDrive. 
-- [Group Policy configuration to silently sign domain users into OneDrive with their domain accounts](https://github.com/RussellLeVasseur/OneDrive-Silent-Sign-In-and-Sync-Group-Policy-Object)
+- [Group Policy configuration to silently sign domain users into OneDrive with their domain accounts](https://github.com/RussellLeVasseur/OneDrive-Silent-Sign-In-and-Sync-Group-Policy-Object).
 
 If this script finds that an account is not syncing or that known folder
