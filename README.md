@@ -4,7 +4,7 @@ Script to check if OneDrive is running and that an account is configured for syn
 ### This script will check if:
 - OneDrive is running and start it if it is not. 
 - Known Windows folders are being synced to OneDrive.
-- An account is logged in and configured to sync. (Requires companion script).
+- An account is logged in and configured to sync. ([Requires companion script](https://github.com/RussellLeVasseur/OneDrive-Status-Check)).
 
 If this script finds any of the above false, it will set the OneDrive ClientEverSignedIn and SilentBusinessConfigCompleted registry keys to 0. This will encourage OneDrive silently login and sync at next user login. 
 
