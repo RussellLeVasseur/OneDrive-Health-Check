@@ -1,4 +1,4 @@
-# OneDrive-Running-and-Sync-Check
+# OneDrive Running and Sync Check
 Script to check if OneDrive is running and that an account is configured for sync.
 
 ### This script will check if:
